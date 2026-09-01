@@ -6,4 +6,4 @@
 * v0.2.4: Add lead support, block CRM access for read-only users, and check permissions before recording
 * v0.2.5: Add Auto-Capture, meeting start notifications, local recording with bot in call, computer audio in voice notes, support for more meeting providers, and recording confirmation for transcripts
 * v0.2.6: Add local backup for recorded audio and WhatsApp support, and fix call duration and huddle detection
-* v0.2.7: Add Aircall and Webex support, refresh activities button, rename activity titles, option to discard recordings, and longer Auto-Capture window
+* v0.2.7: Recording session screen, refresh activities button, rename activity titles, option to discard recordings, and longer Auto-Capture window
