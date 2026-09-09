@@ -9,3 +9,4 @@
 * v0.2.7: Recording session screen, refresh activities button, rename activity titles, option to discard recordings, and longer Auto-Capture window
 * v0.2.8: Add app menu bar for quick access, sync theme across windows, and fix recording end timer
 * v0.2.9: Fix menu bar popover bug
+* v0.2.10: Fix menu bar popover bug
