@@ -11,5 +11,4 @@
 * v0.2.9: Fix menu bar popover bug
 * v0.2.10: Fix menu bar images and dock icon on macOS, and show error page when recording fails
 * v1.0.0: Official 1.0 release with beta update channel
-* v1.0.1: Fix audio note upload with automatic retry before showing errors
-* v1.2.0: Add always record locally button, Auto-Record provider selection, meeting timer on menu bar, automatic sign-out on session expiry, and fix call duration during calendar meetings
+* v1.2.0: Add always record locally button, Auto-Record provider selection, meeting timer on menu bar, automatic sign-out on session expiry, fix call duration during calendar meetings, and retry audio note uploads before showing errors
